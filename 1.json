@@ -1,0 +1,22 @@
+{
+  "code":0,
+  "msg":"Success",
+  "data":
+  {
+    "ncov":[
+      {
+        "resultNumber":2714,
+        "studyInstanceUid":"studyId20200207201813353",
+        "floccule":"0.07245792910914442",
+        "probability":"0.9970037",
+        "allProbability":"4.8951737e-12 0.0029962978 0.9970037",
+        "mask":"http://medclients-de.oss-eu-central-1.aliyuncs.com/mask/prod-de/birzeit/2020041712/studyId20200207201813353/49bfd9b4-80a6-11ea-aafa-4e6b56898c47.nii.gz?Expires=1587212670&OSSAccessKeyId=LTAI4Fd26bcpppU4PFkCNhZ2&Signature=Nfd%2FvlZsHLjQd7tb25RfJj4kVFY%3D",
+        "maskType":"NII_FILE",
+        "lungVolume":"3204283.12293",
+        "lesionVolume":"232175.71937"
+      }
+    ],
+    "dataStatus":2,
+    "statusMessage":""
+  }
+}
